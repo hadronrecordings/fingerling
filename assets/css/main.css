@@ -106,3 +106,7 @@ h1 {
 	font-size: 46px;
 	padding: 12px;
 }
+
+iframe {
+display: inline !important;
+}
